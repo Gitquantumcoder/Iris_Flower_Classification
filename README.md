@@ -9,10 +9,6 @@
 > ** Supervised Machine Learning **  
 > Multi-class flower species classification using KNN, Logistic Regression, and Naive Bayes.
 
-<p align="center">
-  <img src="assets/iris_species.png" width="700" alt="Iris flower species — Versicolor, Setosa, Virginica"/>
-</p>
-
 ---
 
 ## 📌 The Problem
